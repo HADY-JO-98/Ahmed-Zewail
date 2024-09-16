@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+    font-style: oblique;
+    font-size: 24;
+    color:gold;
+}
+#t{
+    border-collapse:collapse;
+}
+#t tr,
+#t td,
+#t th{
+    width: 80%;
+    border: #fff 2px solid;
+}
+tr th{
+    border: 5px;
+}
